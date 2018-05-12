@@ -1,0 +1,26 @@
+_repo: A-Soldier-s-Sketches-Under-Fire_16056
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 16056-h/images/cover1.jpg
+creator:
+  author:
+    agent_name: Harvey, Harold
+    gutenberg_agent_id: '6452'
+    url: http://www.gutenberg.org/2009/agents/6452
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2005-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16056'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Pictorial works'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Personal narratives, English'
+title: A Soldier's Sketches Under Fire
+url: http://www.gutenberg.org/ebooks/16056
